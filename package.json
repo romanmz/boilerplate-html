@@ -29,6 +29,6 @@
     "laravel-mix": "^6.0.39",
     "sass": "^1.26.10",
     "sass-loader": "^9.0.2",
-    "webpack": "^5.65.0"
+    "webpack": "^5.76.0"
   }
 }
